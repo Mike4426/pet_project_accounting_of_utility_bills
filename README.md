@@ -1,6 +1,4 @@
-<style>
-    p {text-indent: 25px;}
-</style>
+
 
 <h2 align="center">Pet-проект "Учет коммунальных платежей"</h1><br>
 
